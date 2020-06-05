@@ -11,6 +11,8 @@ My Coding Journey
 <ul>
   <li>May 5, 2020</li>
   <p> - Started </p>
+  <li>June 3, 2020</li>
+  <p> - Started watching Linkedin Learning Path for Become a Front-End Web Developer. Will try to finish it until Monday (June 8, 2020) and passed all the needed test. </p>
   <li>June 4, 2020</li>
   <p> - Started Harvard free course for Computer Science called CS50. Finish watching the Week O video and studying tutorials for scratch.com. </p>  
 
