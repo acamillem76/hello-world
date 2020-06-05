@@ -11,6 +11,8 @@ My Coding Journey
 <ul>
   <li>May 5, 2020</li>
   <p> - Started </p>
+  <li>May 13, 2020</li>
+  <p> - Made my Github account but can't understand how to use it.</p>
   <li>June 3, 2020</li>
   <p> - Started watching Linkedin Learning Path for Become a Front-End Web Developer. Will try to finish it until Monday (June 8, 2020) and passed all the needed test. </p>
   <li>June 4, 2020</li>
